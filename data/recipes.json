@@ -1,0 +1,539 @@
+{
+  "recipes": [
+    {
+      "name": "Chocolate Chip Cookies",
+      "category": "Sweet",
+      "time": "25 minutes",
+      "ingredients": [
+        {"name": "flour", "quantity": "2", "unit": "cups"},
+        {"name": "sugar", "quantity": "1", "unit": "cup"},
+        {"name": "butter", "quantity": "1/2", "unit": "cup"},
+        {"name": "chocolate chips", "quantity": "1", "unit": "cup"},
+        {"name": "egg", "quantity": "1", "unit": ""}
+      ],
+      "condiments": [
+        {"name": "vanilla extract", "quantity": "1", "unit": "teaspoon"},
+        {"name": "baking soda", "quantity": "1", "unit": "teaspoon"},
+        {"name": "salt", "quantity": "1/2", "unit": "teaspoon"}
+      ],
+      "steps": [
+        "Preheat oven to 350°F (175°C).",
+        "In a bowl, cream together butter and sugar until smooth.",
+        "Beat in the egg and vanilla extract.",
+        "Combine flour, baking soda, and salt, then mix into the batter.",
+        "Fold in chocolate chips.",
+        "Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes until golden.",
+        "Cool on a wire rack before serving."
+      ],
+      "calories": 200,
+      "fat": 10,
+      "protein": 3,
+      "carbohydrates": 30
+    },
+    {
+      "name": "Beef Tacos",
+      "category": "Savory",
+      "time": "20 minutes",
+      "ingredients": [
+        {"name": "ground beef", "quantity": "200", "unit": "g"},
+        {"name": "taco shells", "quantity": "4", "unit": ""},
+        {"name": "cheddar cheese", "quantity": "1/2", "unit": "cup"},
+        {"name": "lettuce", "quantity": "1", "unit": "cup"},
+        {"name": "tomato", "quantity": "1", "unit": ""}
+      ],
+      "condiments": [
+        {"name": "salt", "quantity": "to taste", "unit": ""},
+        {"name": "taco seasoning", "quantity": "1", "unit": "tablespoon"},
+        {"name": "sour cream", "quantity": "optional", "unit": ""}
+      ],
+      "steps": [
+        "In a skillet, cook the ground beef over medium heat until browned.",
+        "Add taco seasoning and salt, then mix well.",
+        "Warm the taco shells according to package instructions.",
+        "Fill the shells with the cooked beef, lettuce, tomato, and cheese.",
+        "Serve with sour cream if desired."
+      ],
+      "calories": 350,
+      "fat": 20,
+      "protein": 25,
+      "carbohydrates": 15
+    },
+    {
+      "name": "Vegetable Curry",
+      "category": "Savory",
+      "time": "40 minutes",
+      "ingredients": [
+        {"name": "potato", "quantity": "2", "unit": "diced"},
+        {"name": "carrot", "quantity": "1", "unit": "sliced"},
+        {"name": "peas", "quantity": "1", "unit": "cup"},
+        {"name": "coconut milk", "quantity": "1", "unit": "can"}
+      ],
+      "condiments": [
+        {"name": "curry powder", "quantity": "1", "unit": "tablespoon"},
+        {"name": "salt", "quantity": "to taste", "unit": ""},
+        {"name": "pepper", "quantity": "to taste", "unit": ""}
+      ],
+      "steps": [
+        "Sauté the vegetables in a pan until tender.",
+        "Add curry powder and coconut milk.",
+        "Simmer for 20 minutes, season with salt and pepper, and serve."
+      ],
+      "calories": 250,
+      "fat": 15,
+      "protein": 5,
+      "carbohydrates": 20
+    },
+        {
+          "name": "Fried Rice",
+          "category": "Savory",
+          "time": "20 minutes",
+          "ingredients": [
+            {"name": "cooked rice", "quantity": "2", "unit": "cups"},
+            {"name": "egg", "quantity": "2", "unit": "beaten"},
+            {"name": "peas", "quantity": "1/2", "unit": "cup"},
+            {"name": "carrot", "quantity": "1", "unit": "diced"}
+          ],
+          "condiments": [
+            {"name": "soy sauce", "quantity": "2", "unit": "tablespoons"},
+            {"name": "garlic", "quantity": "2", "unit": "cloves"}
+          ],
+          "steps": [
+            "Scramble the eggs in a pan, then set aside.",
+            "Sauté garlic, carrot, and peas in oil until tender.",
+            "Add rice and soy sauce, then stir in the scrambled eggs.",
+            "Cook for 5 minutes and serve."
+          ],
+          "calories": 400,
+          "fat": 8,
+          "protein": 12,
+          "carbohydrates": 70
+        },
+        {
+          "name": "Shrimp Scampi",
+          "category": "Savory",
+          "time": "25 minutes",
+          "ingredients": [
+            {"name": "shrimp", "quantity": "200", "unit": "g"},
+            {"name": "butter", "quantity": "2", "unit": "tablespoons"},
+            {"name": "garlic", "quantity": "3", "unit": "cloves"},
+            {"name": "lemon", "quantity": "1", "unit": ""}
+          ],
+          "condiments": [
+            {"name": "parsley", "quantity": "1", "unit": "tablespoon"},
+            {"name": "salt", "quantity": "to taste", "unit": ""},
+            {"name": "pepper", "quantity": "to taste", "unit": ""}
+          ],
+          "steps": [
+            "Melt butter in a pan and sauté garlic.",
+            "Add shrimp and cook until pink.",
+            "Squeeze lemon juice over the shrimp and season with salt, pepper, and parsley."
+          ],
+          "calories": 300,
+          "fat": 12,
+          "protein": 28,
+          "carbohydrates": 5
+        },
+        {
+          "name": "Chicken Fajitas",
+          "category": "Savory",
+          "time": "30 minutes",
+          "ingredients": [
+            {"name": "chicken breast", "quantity": "2", "unit": "sliced"},
+            {"name": "bell pepper", "quantity": "1", "unit": "sliced"},
+            {"name": "onion", "quantity": "1", "unit": "sliced"},
+            {"name": "tortillas", "quantity": "4", "unit": ""}
+          ],
+          "condiments": [
+            {"name": "fajita seasoning", "quantity": "1", "unit": "tablespoon"},
+            {"name": "lime", "quantity": "1", "unit": ""}
+          ],
+          "steps": [
+            "Sauté chicken, bell pepper, and onion in a pan with fajita seasoning.",
+            "Serve with tortillas and a squeeze of lime."
+          ],
+          "calories": 450,
+          "fat": 12,
+          "protein": 35,
+          "carbohydrates": 45
+        },
+        {
+          "name": "Cauliflower Rice",
+          "category": "Savory",
+          "time": "15 minutes",
+          "ingredients": [
+            {"name": "cauliflower", "quantity": "1", "unit": "head, grated"},
+            {"name": "garlic", "quantity": "2", "unit": "cloves"},
+            {"name": "olive oil", "quantity": "1", "unit": "tablespoon"}
+          ],
+          "condiments": [
+            {"name": "salt", "quantity": "to taste", "unit": ""},
+            {"name": "pepper", "quantity": "to taste", "unit": ""}
+          ],
+          "steps": [
+            "Sauté garlic in olive oil.",
+            "Add grated cauliflower and cook for 5 minutes.",
+            "Season with salt and pepper, and serve."
+          ],
+          "calories": 120,
+          "fat": 7,
+          "protein": 5,
+          "carbohydrates": 10
+        },
+        {
+          "name": "Spinach and Ricotta Lasagna",
+          "category": "Savory",
+          "time": "1 hour",
+          "ingredients": [
+            {"name": "lasagna sheets", "quantity": "8", "unit": ""},
+            {"name": "spinach", "quantity": "2", "unit": "cups"},
+            {"name": "ricotta cheese", "quantity": "1", "unit": "cup"},
+            {"name": "tomato sauce", "quantity": "1", "unit": "cup"}
+          ],
+          "condiments": [
+            {"name": "parmesan cheese", "quantity": "1/4", "unit": "cup"}
+          ],
+          "steps": [
+            "Preheat oven to 375°F (190°C).",
+            "Layer lasagna sheets, spinach, ricotta, and tomato sauce in a baking dish.",
+            "Top with parmesan cheese and bake for 45 minutes."
+          ],
+          "calories": 500,
+          "fat": 20,
+          "protein": 25,
+          "carbohydrates": 50
+        },
+        {
+          "name": "Beef Stir Fry",
+          "category": "Savory",
+          "time": "25 minutes",
+          "ingredients": [
+            {"name": "beef strips", "quantity": "200", "unit": "g"},
+            {"name": "broccoli", "quantity": "1", "unit": "cup"},
+            {"name": "carrot", "quantity": "1", "unit": "sliced"},
+            {"name": "soy sauce", "quantity": "1/4", "unit": "cup"}
+          ],
+          "condiments": [
+            {"name": "ginger", "quantity": "1", "unit": "teaspoon"},
+            {"name": "garlic", "quantity": "2", "unit": "cloves"}
+          ],
+          "steps": [
+            "Sauté garlic and ginger in a pan.",
+            "Add beef strips and cook until browned.",
+            "Add vegetables and soy sauce, stir-fry until tender-crisp."
+          ],
+          "calories": 350,
+          "fat": 12,
+          "protein": 30,
+          "carbohydrates": 15
+        },
+        {
+          "name": "Turkey Sandwich",
+          "category": "Savory",
+          "time": "10 minutes",
+          "ingredients": [
+            {"name": "turkey slices", "quantity": "4", "unit": ""},
+            {"name": "bread", "quantity": "2", "unit": "slices"},
+            {"name": "lettuce", "quantity": "1", "unit": "leaf"},
+            {"name": "tomato", "quantity": "1", "unit": "sliced"}
+          ],
+          "condiments": [
+            {"name": "mayonnaise", "quantity": "1", "unit": "tablespoon"},
+            {"name": "mustard", "quantity": "1", "unit": "teaspoon"}
+          ],
+          "steps": [
+            "Spread mayonnaise and mustard on bread slices.",
+            "Layer turkey, lettuce, and tomato between the bread slices.",
+            "Serve immediately."
+          ],
+          "calories": 300,
+          "fat": 10,
+          "protein": 20,
+          "carbohydrates": 30
+        },
+        {
+          "name": "Chicken Noodle Soup",
+          "category": "Savory",
+          "time": "40 minutes",
+          "ingredients": [
+            {"name": "chicken breast", "quantity": "1", "unit": "diced"},
+            {"name": "carrot", "quantity": "1", "unit": "sliced"},
+            {"name": "noodles", "quantity": "1", "unit": "cup"},
+            {"name": "chicken broth", "quantity": "4", "unit": "cups"}
+          ],
+          "condiments": [
+            {"name": "salt", "quantity": "to taste", "unit": ""},
+            {"name": "pepper", "quantity": "to taste", "unit": ""}
+          ],
+          "steps": [
+            "Sauté chicken in a pan until browned.",
+            "Add carrot and chicken broth, bring to a boil.",
+            "Add noodles and cook for 10 minutes until tender.",
+            "Season with salt and pepper, and serve."
+          ],
+          "calories": 250,
+          "fat": 5,
+          "protein": 20,
+          "carbohydrates": 30
+        },
+        {
+          "name": "Quinoa Salad",
+          "category": "Savory",
+          "time": "15 minutes",
+          "ingredients": [
+            {"name": "quinoa", "quantity": "1", "unit": "cup"},
+            {"name": "cucumber", "quantity": "1", "unit": "chopped"},
+            {"name": "tomato", "quantity": "1", "unit": "chopped"},
+            {"name": "feta cheese", "quantity": "1/4", "unit": "cup"}
+          ],
+          "condiments": [
+            {"name": "olive oil", "quantity": "2", "unit": "tablespoons"},
+            {"name": "lemon juice", "quantity": "1", "unit": "tablespoon"}
+          ],
+          "steps": [
+            "Cook quinoa according to package instructions and let cool.",
+            "Mix with cucumber, tomato, and feta cheese.",
+            "Drizzle with olive oil and lemon juice, and serve."
+          ],
+          "calories": 200,
+          "fat": 8,
+          "protein": 6,
+          "carbohydrates": 25
+        },
+
+        {
+          "name": "Spaghetti Bolognese",
+          "category": "Savory",
+          "time": "45 minutes",
+          "ingredients": [
+            {"name": "spaghetti", "quantity": "200", "unit": "g"},
+            {"name": "ground beef", "quantity": "300", "unit": "g"},
+            {"name": "onion", "quantity": "1", "unit": "chopped"},
+            {"name": "tomato sauce", "quantity": "2", "unit": "cups"}
+          ],
+          "condiments": [
+            {"name": "olive oil", "quantity": "2", "unit": "tablespoons"},
+            {"name": "salt", "quantity": "to taste", "unit": ""},
+            {"name": "pepper", "quantity": "to taste", "unit": ""}
+          ],
+          "steps": [
+            "Cook spaghetti according to package instructions.",
+            "In a pan, heat olive oil and sauté onion until translucent.",
+            "Add ground beef and cook until browned.",
+            "Stir in tomato sauce, season with salt and pepper, and simmer for 15 minutes.",
+            "Serve sauce over spaghetti."
+          ],
+          "calories": 600,
+          "fat": 20,
+          "protein": 30,
+          "carbohydrates": 70
+        },
+        {
+          "name": "Grilled Cheese Sandwich",
+          "category": "Savory",
+          "time": "10 minutes",
+          "ingredients": [
+            {"name": "bread", "quantity": "2", "unit": "slices"},
+            {"name": "cheddar cheese", "quantity": "2", "unit": "slices"},
+            {"name": "butter", "quantity": "1", "unit": "tablespoon"}
+          ],
+          "condiments": [],
+          "steps": [
+            "Spread butter on one side of each bread slice.",
+            "Place cheese slices between the unbuttered sides of the bread.",
+            "Cook on a skillet over medium heat until golden brown on both sides."
+          ],
+          "calories": 350,
+          "fat": 18,
+          "protein": 12,
+          "carbohydrates": 30
+        },
+        {
+          "name": "Egg Salad",
+          "category": "Savory",
+          "time": "15 minutes",
+          "ingredients": [
+            {"name": "eggs", "quantity": "4", "unit": "hard-boiled"},
+            {"name": "mayonnaise", "quantity": "2", "unit": "tablespoons"},
+            {"name": "celery", "quantity": "1", "unit": "stalk, chopped"}
+          ],
+          "condiments": [
+            {"name": "salt", "quantity": "to taste", "unit": ""},
+            {"name": "pepper", "quantity": "to taste", "unit": ""}
+          ],
+          "steps": [
+            "Chop hard-boiled eggs and celery.",
+            "Mix with mayonnaise, salt, and pepper.",
+            "Serve on bread, crackers, or lettuce leaves."
+          ],
+          "calories": 250,
+          "fat": 18,
+          "protein": 12,
+          "carbohydrates": 2
+        },
+        {
+          "name": "Stuffed Bell Peppers",
+          "category": "Savory",
+          "time": "1 hour",
+          "ingredients": [
+            {"name": "bell peppers", "quantity": "4", "unit": ""},
+            {"name": "ground turkey", "quantity": "300", "unit": "g"},
+            {"name": "rice", "quantity": "1", "unit": "cup, cooked"},
+            {"name": "tomato sauce", "quantity": "1", "unit": "cup"}
+          ],
+          "condiments": [
+            {"name": "salt", "quantity": "to taste", "unit": ""},
+            {"name": "pepper", "quantity": "to taste", "unit": ""}
+          ],
+          "steps": [
+            "Preheat oven to 375°F (190°C).",
+            "Cut the tops off bell peppers and remove seeds.",
+            "Mix ground turkey, rice, tomato sauce, salt, and pepper.",
+            "Stuff the peppers with the mixture and place in a baking dish.",
+            "Bake for 45 minutes."
+          ],
+          "calories": 400,
+          "fat": 10,
+          "protein": 30,
+          "carbohydrates": 50
+        },
+        {
+          "name": "Pancakes",
+          "category": "Sweet",
+          "time": "20 minutes",
+          "ingredients": [
+            {"name": "flour", "quantity": "1", "unit": "cup"},
+            {"name": "milk", "quantity": "1", "unit": "cup"},
+            {"name": "egg", "quantity": "1", "unit": ""},
+            {"name": "butter", "quantity": "2", "unit": "tablespoons"}
+          ],
+          "condiments": [
+            {"name": "syrup", "quantity": "optional", "unit": "for serving"}
+          ],
+          "steps": [
+            "In a bowl, mix flour, milk, egg, and melted butter until smooth.",
+            "Heat a skillet over medium heat and pour batter to form pancakes.",
+            "Cook until bubbles form on the surface, then flip and cook the other side.",
+            "Serve with syrup."
+          ],
+          "calories": 300,
+          "fat": 10,
+          "protein": 8,
+          "carbohydrates": 40
+        },
+        {
+          "name": "Vegetable Stir Fry",
+          "category": "Savory",
+          "time": "20 minutes",
+          "ingredients": [
+            {"name": "broccoli", "quantity": "1", "unit": "cup"},
+            {"name": "carrot", "quantity": "1", "unit": "sliced"},
+            {"name": "bell pepper", "quantity": "1", "unit": "sliced"},
+            {"name": "soy sauce", "quantity": "2", "unit": "tablespoons"}
+          ],
+          "condiments": [
+            {"name": "garlic", "quantity": "2", "unit": "cloves"},
+            {"name": "ginger", "quantity": "1", "unit": "teaspoon"}
+          ],
+          "steps": [
+            "Heat oil in a pan and sauté garlic and ginger.",
+            "Add vegetables and stir-fry until tender-crisp.",
+            "Add soy sauce and mix well.",
+            "Serve immediately."
+          ],
+          "calories": 150,
+          "fat": 5,
+          "protein": 4,
+          "carbohydrates": 20
+        },
+        {
+          "name": "Blueberry Muffins",
+          "category": "Sweet",
+          "time": "30 minutes",
+          "ingredients": [
+            {"name": "flour", "quantity": "1 1/2", "unit": "cups"},
+            {"name": "blueberries", "quantity": "1", "unit": "cup"},
+            {"name": "sugar", "quantity": "1/2", "unit": "cup"},
+            {"name": "milk", "quantity": "1/2", "unit": "cup"},
+            {"name": "egg", "quantity": "1", "unit": ""}
+          ],
+          "condiments": [
+            {"name": "baking powder", "quantity": "1", "unit": "teaspoon"}
+          ],
+          "steps": [
+            "Preheat oven to 375°F (190°C) and line a muffin tin with cups.",
+            "Mix flour, sugar, and baking powder in a bowl.",
+            "Add milk, egg, and blueberries, and stir until combined.",
+            "Scoop batter into muffin cups and bake for 20 minutes."
+          ],
+          "calories": 200,
+          "fat": 5,
+          "protein": 5,
+          "carbohydrates": 35
+        },
+        {
+          "name": "Avocado Toast",
+          "category": "Savory",
+          "time": "5 minutes",
+          "ingredients": [
+            {"name": "bread", "quantity": "2", "unit": "slices"},
+            {"name": "avocado", "quantity": "1", "unit": "mashed"}
+          ],
+          "condiments": [
+            {"name": "salt", "quantity": "to taste", "unit": ""},
+            {"name": "pepper", "quantity": "to taste", "unit": ""}
+          ],
+          "steps": [
+            "Toast the bread slices.",
+            "Spread mashed avocado on the toast.",
+            "Season with salt and pepper."
+          ],
+          "calories": 250,
+          "fat": 12,
+          "protein": 5,
+          "carbohydrates": 30
+        },
+        {
+          "name": "Lemonade",
+          "category": "Sweet",
+          "time": "10 minutes",
+          "ingredients": [
+            {"name": "lemons", "quantity": "3", "unit": "juiced"},
+            {"name": "water", "quantity": "4", "unit": "cups"},
+            {"name": "sugar", "quantity": "1/2", "unit": "cup"}
+          ],
+          "condiments": [],
+          "steps": [
+            "Mix lemon juice, water, and sugar in a pitcher until sugar dissolves.",
+            "Serve over ice."
+          ],
+          "calories": 100,
+          "fat": 0,
+          "protein": 0,
+          "carbohydrates": 26
+        },
+        {
+          "name": "Grilled Salmon",
+          "category": "Savory",
+          "time": "20 minutes",
+          "ingredients": [
+            {"name": "salmon fillets", "quantity": "2", "unit": ""},
+            {"name": "lemon", "quantity": "1", "unit": "sliced"}
+          ],
+          "condiments": [
+            {"name": "olive oil", "quantity": "1", "unit": "tablespoon"},
+            {"name": "salt", "quantity": "to taste", "unit": ""},
+            {"name": "pepper", "quantity": "to taste", "unit": ""}
+          ],
+          "steps": [
+            "Brush salmon with olive oil and season with salt and pepper.",
+            "Grill salmon fillets for 5-7 minutes per side.",
+            "Serve with lemon slices."
+          ],
+          "calories": 300,
+          "fat": 20,
+          "protein": 30,
+          "carbohydrates": 0
+        }
+      ]
+    }
+    
